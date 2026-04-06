@@ -71,7 +71,8 @@ Update the Kafka configuration in `producer.py` with your Aiven service details:
 Run the producer:
 
 ```bash
-python producer.py```
+python producer.py
+```
 
 Note:
 

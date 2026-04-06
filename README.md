@@ -121,7 +121,8 @@ OpenSearch Dashboards is used to visualize data:
 
 ## Sample Dashboard
 
-(Add screenshots here)
+<img width="3250" height="1870" alt="image" src="https://github.com/user-attachments/assets/bf9e93b5-3c50-464a-975b-6ad8f08242d7" />
+
 
 ---
 
